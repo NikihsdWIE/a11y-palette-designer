@@ -55,13 +55,13 @@ A professional, accessibility-driven color palette tool that generates beautiful
 ## Screenshots
 
 ### Main Interface
-![Main Interface](docs/screenshots/A11y-First Main Interface.png)
+![Main Interface](docs/screenshots/A11y-First-Main-Interface.png)
 
 ### Export
-![Export](docs/screenshots/A11y-First Export.png)
+![Export](docs/screenshots/A11y-First-Export.png)
 
 ### Palette Library
-![Palette Library](docs/screenshots/A11y-First Palette Library.png)
+![Palette Library](docs/screenshots/A11y-First-Palette-Library.png)
 
 ---
 
