@@ -8,6 +8,10 @@ A professional, accessibility-driven color palette tool that generates beautiful
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
+## Live Demo
+
+🔗 **[a11y-palette-designer.vercel.app](https://a11y-palette-designer.vercel.app)**
+
 
 ## Features
 
@@ -45,6 +49,19 @@ A professional, accessibility-driven color palette tool that generates beautiful
 - Fully **responsive** — works on mobile and desktop
 - Skip-to-main link, `aria-label` on all interactive elements, keyboard-navigable throughout
 - The tool itself meets WCAG 2.1 AA — it practices what it preaches
+
+---
+
+## Screenshots
+
+### Main Interface
+![Main Interface](docs/screenshots/A11y-First Main Interface.png)
+
+### Export
+![Export](docs/screenshots/A11y-First Export.png)
+
+### Palette Library
+![Palette Library](docs/screenshots/A11y-First Palette Library.png)
 
 ---
 
